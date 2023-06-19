@@ -5,6 +5,5 @@ A grade 12 project containing 3 types of users
 
 1. Doctor
 2. Patient
-3. Admin
 
 A CRUD Operation Console written in python and connected to MySQL Database
